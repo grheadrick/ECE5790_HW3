@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      grh73
+HostName                       en-ec-ecelinux-01.coecis.cornell.edu
+ProcessIdentifier              59735
+ProcessCreationTime_UTC        1587845166
+ProcessCreationTime_Readable   Sat Apr 25 16:06:06 2020 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/grh73/ece5790/ECE5790_HW3/ECE5790_HW3/power_ampv1/schematic/sch.oa.cdslck
+TimeEditLocked                 Sat Apr 25 16:27:17 2020 EDT
