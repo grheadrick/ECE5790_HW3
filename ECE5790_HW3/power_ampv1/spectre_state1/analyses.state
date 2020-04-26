@@ -197,7 +197,7 @@ analysis(tran fields dynParamB) nil
 analysis(tran fields dynParamListBox) (nil choices nil value nil)
 analysis(tran fields dynchoice) "Parameter file"
 analysis(tran fields dynparam) ""
-analysis(tran fields enable) (nil)
+analysis(tran fields enable) (t)
 analysis(tran fields errpreset) "conservative"
 analysis(tran fields noisefmax) ""
 analysis(tran fields noisefmin) ""
@@ -213,7 +213,7 @@ analysis(tran fields paramTime) ""
 analysis(tran fields paramValue) ""
 analysis(tran fields param_file) ""
 analysis(tran fields param_vec) nil
-analysis(tran fields stop) "25n"
+analysis(tran fields stop) "1n"
 analysis(tran fields tranNoise) ""
 analysis(tran fields tranNoiseMultiRuns) ""
 analysis(tran options FinalOpOtherParameters) ""
@@ -245,7 +245,7 @@ analysis(tran options lteratio) ""
 analysis(tran options maxiters) "5"
 analysis(tran options maxstep) ""
 analysis(tran options method) ""
-analysis(tran options minstep) "5p"
+analysis(tran options minstep) ""
 analysis(tran options nestlvl) ""
 analysis(tran options oppoint) ""
 analysis(tran options oscfreq) ""
