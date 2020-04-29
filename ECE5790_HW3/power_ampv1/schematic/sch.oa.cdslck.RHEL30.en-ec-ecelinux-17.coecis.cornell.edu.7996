@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      hy379
+HostName                       en-ec-ecelinux-17.coecis.cornell.edu
+ProcessIdentifier              7996
+ProcessCreationTime_UTC        1588181333
+ProcessCreationTime_Readable   Wed Apr 29 13:28:53 2020 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/hy379/Desktop/ECE5790/ECE5790_HW3/ECE5790_HW3/power_ampv1/schematic/sch.oa.cdslck
+TimeEditLocked                 Wed Apr 29 13:30:59 2020 EDT
