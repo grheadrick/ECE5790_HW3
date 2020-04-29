@@ -1,0 +1,5 @@
+*.cdslck
+*.log
+*.cdsinit
+*.cdsenv
+*.lib
