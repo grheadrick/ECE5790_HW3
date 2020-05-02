@@ -1,0 +1,8 @@
+TDMCHECKPOINT="1.0"
+behavioral_RF_bits/TL_seg type="cell"
+behavioral_RF_bits/ind_side_1_coil type="cell"
+behavioral_RF_bits/ind_side_2_coil type="cell"
+behavioral_RF_bits/ind_side_3_coil type="cell"
+behavioral_RF_bits/ind_side_4_coil type="cell"
+behavioral_RF_bits/ind_side_6_coil type="cell"
+keepEmptyCategory type="unknown"

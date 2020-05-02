@@ -1,0 +1,5 @@
+TDMCHECKPOINT="1.0"
+behavioral_RF_bits/Bondwires_plus_bondpadsx8 type="cell"
+behavioral_RF_bits/TDK_ind type="cell"
+behavioral_RF_bits/TL_on_chip type="cell"
+keepEmptyCategory type="unknown"

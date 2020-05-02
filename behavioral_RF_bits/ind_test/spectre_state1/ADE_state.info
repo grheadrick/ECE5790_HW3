@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("behavioral_RF_bits" "ind_test" "schematic" "spectre")
+descriptionText = "None"

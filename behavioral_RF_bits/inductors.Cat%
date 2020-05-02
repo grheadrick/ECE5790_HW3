@@ -1,0 +1,5 @@
+TDMCHECKPOINT="1.0"
+behavioral_RF_bits/diff_ind_4_coil type="cell"
+behavioral_RF_bits/spiral_ind_3_coil type="cell"
+behavioral_RF_bits/spiral_ind_4_coil type="cell"
+keepEmptyCategory type="unknown"

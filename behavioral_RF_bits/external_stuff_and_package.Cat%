@@ -1,0 +1,4 @@
+TDMCHECKPOINT="1.0"
+behavioral_RF_bits/BW_line type="cell"
+behavioral_RF_bits/TDK_ind type="cell"
+keepEmptyCategory type="unknown"

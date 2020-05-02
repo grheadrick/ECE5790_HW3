@@ -1,0 +1,8 @@
+TDMCHECKPOINT="1.0"
+behavioral_RF_bits/Bondwires_plus_bondpadsx8 type="cell"
+behavioral_RF_bits/Fake_amp type="cell"
+behavioral_RF_bits/HW2_p3_noise type="cell"
+behavioral_RF_bits/TDK_BALUN type="cell"
+behavioral_RF_bits/TDK_ind type="cell"
+behavioral_RF_bits/example_top_level_HW2_p4 type="cell"
+keepEmptyCategory type="unknown"

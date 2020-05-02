@@ -1,0 +1,6 @@
+TDMCHECKPOINT="1.0"
+behavioral_RF_bits/HW2_stuff.Cat type="category"
+behavioral_RF_bits/inductors.Cat type="category"
+behavioral_RF_bits/miscellaneous.Cat type="category"
+behavioral_RF_bits/sub_elements_dont_use.Cat type="category"
+behavioral_RF_bits/transformers.Cat type="category"
