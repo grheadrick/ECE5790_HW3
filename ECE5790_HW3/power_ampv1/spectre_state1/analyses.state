@@ -4,7 +4,7 @@ analysis(ac fields dec) "30"
 analysis(ac fields designVar) ""
 analysis(ac fields dev) ""
 analysis(ac fields deviceParam) ""
-analysis(ac fields enable) (t)
+analysis(ac fields enable) (nil)
 analysis(ac fields fim_out) ""
 analysis(ac fields flin_out) ""
 analysis(ac fields freq) ""
@@ -37,7 +37,7 @@ analysis(ac fields start) "100M"
 analysis(ac fields step) ""
 analysis(ac fields stepTypeLin) "Step Size"
 analysis(ac fields stepTypeLog) "Points Per Decade"
-analysis(ac fields stop) "50G"
+analysis(ac fields stop) "100G"
 analysis(ac fields sweep) "Frequency"
 analysis(ac fields sweepChange) nil
 analysis(ac fields useDiscrete) nil
@@ -110,7 +110,7 @@ analysis(sp fields designVar) ""
 analysis(sp fields dev) ""
 analysis(sp fields deviceParam) ""
 analysis(sp fields donoise) "no"
-analysis(sp fields enable) (t)
+analysis(sp fields enable) (nil)
 analysis(sp fields freq) ""
 analysis(sp fields incrType) "Logarithmic"
 analysis(sp fields iprobe) ""
@@ -170,7 +170,7 @@ analysis(tran fields paramTime) ""
 analysis(tran fields paramValue) ""
 analysis(tran fields param_file) ""
 analysis(tran fields param_vec) nil
-analysis(tran fields stop) "5n"
+analysis(tran fields stop) "20n"
 analysis(tran fields tranNoise) ""
 analysis(tran fields tranNoiseMultiRuns) ""
 analysis(tran options FinalOpOtherParameters) ""

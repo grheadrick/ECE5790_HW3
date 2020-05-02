@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      keb278
+HostName                       en-ec-ecelinux-14.coecis.cornell.edu
+ProcessIdentifier              52755
+ProcessCreationTime_UTC        1588374437
+ProcessCreationTime_Readable   Fri May  1 19:07:17 2020 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/keb278/Desktop/ECE5790_HW3/ECE5790_HW3/power_ampv1/schematic/sch.oa.cdslck
+TimeEditLocked                 Fri May  1 19:10:38 2020 EDT
