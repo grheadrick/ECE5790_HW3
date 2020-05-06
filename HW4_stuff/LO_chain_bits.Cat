@@ -1,0 +1,6 @@
+TDMCHECKPOINT="1.0"
+HW4_stuff/INV type="cell"
+HW4_stuff/NAND type="cell"
+HW4_stuff/RC_polyphase type="cell"
+HW4_stuff/latch type="cell"
+keepEmptyCategory type="unknown"
