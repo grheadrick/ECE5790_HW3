@@ -88,7 +88,7 @@ tmp10 = make_sevVariableStruct()
 tmp10 = (ncons nil)
 )
 tmp10->name = "Rpoly"
-tmp10->expression = "30"
+tmp10->expression = "100"
 tmp10->index = 10
 (unless tmp11
 tmp11 = make_sevVariableStruct()
@@ -178,7 +178,7 @@ tmp20 = make_sevVariableStruct()
 tmp20 = (ncons nil)
 )
 tmp20->name = "Iin"
-tmp20->expression = "0"
+tmp20->expression = "200m"
 tmp20->index = 20
 (unless tmp21
 tmp21 = make_sevVariableStruct()
@@ -187,7 +187,7 @@ tmp21 = make_sevVariableStruct()
 tmp21 = (ncons nil)
 )
 tmp21->name = "Qin"
-tmp21->expression = "0"
+tmp21->expression = "200m"
 tmp21->index = 21
 list(tmp1 tmp2 tmp3 tmp4 tmp5 tmp6 tmp7 tmp8 tmp9 tmp10 tmp11 tmp12 tmp13 tmp14 tmp15 tmp16 tmp17 tmp18 tmp19 tmp20 tmp21)
 )

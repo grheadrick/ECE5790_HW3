@@ -4,7 +4,7 @@ analysis(ac fields dec) "30"
 analysis(ac fields designVar) ""
 analysis(ac fields dev) ""
 analysis(ac fields deviceParam) ""
-analysis(ac fields enable) (nil)
+analysis(ac fields enable) (t)
 analysis(ac fields fim_out) ""
 analysis(ac fields flin_out) ""
 analysis(ac fields freq) ""
@@ -37,7 +37,7 @@ analysis(ac fields start) "100M"
 analysis(ac fields step) ""
 analysis(ac fields stepTypeLin) "Step Size"
 analysis(ac fields stepTypeLog) "Points Per Decade"
-analysis(ac fields stop) "30G"
+analysis(ac fields stop) "10G"
 analysis(ac fields sweep) "Frequency"
 analysis(ac fields sweepChange) nil
 analysis(ac fields useDiscrete) nil
@@ -243,7 +243,7 @@ analysis(pnoise fields dec6) ""
 analysis(pnoise fields deterministicsources) nil
 analysis(pnoise fields deterministicsourcesUI) nil
 analysis(pnoise fields determsourcesfreqs) nil
-analysis(pnoise fields enable) (t)
+analysis(pnoise fields enable) (nil)
 analysis(pnoise fields extcorrsources1) nil
 analysis(pnoise fields extcorrsources1UI) nil
 analysis(pnoise fields extcorrsources2) nil
@@ -540,7 +540,7 @@ analysis(pss fields dynParamB) nil
 analysis(pss fields dynParamListBox) (nil choices nil value nil)
 analysis(pss fields dynchoice) "Parameter file"
 analysis(pss fields dynparam) ""
-analysis(pss fields enable) (t)
+analysis(pss fields enable) (nil)
 analysis(pss fields engine) "Shooting"
 analysis(pss fields errpreset) "conservative"
 analysis(pss fields flexbalance) "no"
@@ -744,7 +744,7 @@ analysis(tran fields dynParamB) nil
 analysis(tran fields dynParamListBox) (nil choices nil value nil)
 analysis(tran fields dynchoice) "Parameter file"
 analysis(tran fields dynparam) ""
-analysis(tran fields enable) (nil)
+analysis(tran fields enable) (t)
 analysis(tran fields errpreset) "conservative"
 analysis(tran fields noisefmax) ""
 analysis(tran fields noisefmin) ""
