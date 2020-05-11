@@ -1,2 +1,6 @@
 (
+ (nil name "4" fundName "" freqVar "1/(1/FLO-0)" freq "999.999999999999880790710449219M" signal "Moderate" srcId "V2" maxHarms "3" freqIndex "freq" oversample "1")
+ (nil name "5" fundName "" freqVar "1/(1/FLO-0)" freq "999.999999999999880790710449219M" signal "Moderate" srcId "V3" maxHarms "3" freqIndex "freq" oversample "1")
+ (nil name "2" fundName "" freqVar "1/(1/FLO-0)" freq "999.999999999999880790710449219M" signal "Moderate" srcId "V0" maxHarms "3" freqIndex "freq" oversample "1")
+ (nil name "3" fundName "" freqVar "1/(1/FLO-0)" freq "999.999999999999880790710449219M" signal "Moderate" srcId "V1" maxHarms "3" freqIndex "freq" oversample "1")
 )

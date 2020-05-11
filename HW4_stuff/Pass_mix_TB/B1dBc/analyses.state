@@ -445,7 +445,7 @@ analysis(pss fields freqVar) "no"
 analysis(pss fields freqVar2) "no"
 analysis(pss fields freqVar3) "no"
 analysis(pss fields fund) "200M"
-analysis(pss fields fundListBox) (nil choices ("4           1/(1/FLO-0 1G        Large         V2" "5           1/(1/FLO-0 1G        Large         V3" "2           1/(1/FLO-0 1G        Large         V0" "1           FRF        1.2G      Large      PORT0" "3           1/(1/FLO-0 1G        Large         V1") value nil)
+analysis(pss fields fundListBox) (nil choices ("4           1/(1/FLO-0 1G        Large         V2" "5           1/(1/FLO-0 1G        Large         V3" "2           1/(1/FLO-0 1G        Large         V0" "3           1/(1/FLO-0 1G        Large         V1" "1           FRF        1.2G      Large      PORT0") value nil)
 analysis(pss fields harmCoeffs) nil
 analysis(pss fields harmListMem) nil
 analysis(pss fields harmonics) "Number of harmonics"
@@ -551,7 +551,7 @@ analysis(pss fields sweepChange) nil
 analysis(pss fields sweepChange2) nil
 analysis(pss fields sweepChange3) nil
 analysis(pss fields sweepLevel) "1"
-analysis(pss fields sweepOrderLabel) ""
+analysis(pss fields sweepOrderLabel) "mRF"
 analysis(pss fields sweepStep) ""
 analysis(pss fields sweepvar_info) ""
 analysis(pss fields tstab) ""
